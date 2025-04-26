@@ -10,7 +10,7 @@ venv/
 .virtual/
 
 # Database
-db.sqlite3
+# db.sqlite3
 
 # Static folder at project root
 /static/
